@@ -15,6 +15,14 @@ print("Multiplication")
 print("Division")
 
 while True:
-choice input("Enter choices
+choice input("Enter choices:(1/2/3/4):
+try:
+num1=float(input("Enter first number: "))
+num2=float(input("Enter second number: "))
+Exceptvalue error:
+print("Invalid input.please enter a number)
+contineu
+if choice==1
+     
 
 
